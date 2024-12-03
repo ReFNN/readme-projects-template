@@ -87,7 +87,7 @@ code .
 - The template has 3 models: English, Portuguese and Blank
 - Choose the template you prefer and start adding your information
 
-## <a name="constributing">🤝 Contributing</a>
+## <a name="contributing">🤝 Contributing</a>
 
 Contributions, issues, and feature requests are welcome!
 
