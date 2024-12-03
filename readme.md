@@ -26,10 +26,8 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 💻 [Quick Start](#quick-start)
-5. 💾 [Environment Variables](#envs)
-6. 📅 [Releases](#versions)
-7. 🤝 [Contributing](#contributing)
-8. 👥 [Authors](#authors)
+5. 🤝 [Contributing](#contributing)
+6. 👥 [Authors](#authors)
 
 
 
