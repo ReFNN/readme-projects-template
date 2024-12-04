@@ -185,7 +185,7 @@ THIRD_PARTY_API_KEY=1234567890abcdef
 * 0.0.1
     * Initial work
 
-## <a name="constributing">🤝 Contributing</a>
+## <a name="contributing">🤝 Contributing</a>
 
 Contributions, issues, and feature requests are welcome!
 
